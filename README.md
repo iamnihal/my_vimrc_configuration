@@ -1,4 +1,4 @@
 # VIMRC File
-This vim configuration file is typically configured for python environment.
+This is my vim configuration file with no bullshit plugins and settings.
 
-Reference:- https://realpython.com/vim-and-python-a-match-made-in-heaven/
+I refrain from using any kind of code-completion engine as it just makes vim to respond slow. Vim is known for its fast and efficient text editing and I am still looking for a reliable plugin that doesn't makes vim a slow text-editor.
